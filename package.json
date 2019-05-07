@@ -1,0 +1,27 @@
+{
+  "name": "promise-all-limit",
+  "version": "1.0.0",
+  "description": "limit the maximum number of concurrent tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengming00/promise-all-limit.git"
+  },
+  "keywords": [
+    "promise",
+    "all",
+    "limit"
+  ],
+  "author": "zengming00@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zengming00/promise-all-limit/issues"
+  },
+  "homepage": "https://github.com/zengming00/promise-all-limit#readme",
+  "dependencies": {
+    "promise-limit": "^2.7.0"
+  }
+}
